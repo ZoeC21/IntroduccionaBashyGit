@@ -1,0 +1,18 @@
+1) pwd
+
+2)ls
+
+3) ls -l
+
+4) ls -sh
+
+5) ls -sh>Salida.txt
+
+6) ls> Permisos.txt
+
+7) mkdir Carpeta
+cd Carpeta
+
+8) ps >ProcesosDelSistema
+
+9) ls> Mis_Archivos.txt
